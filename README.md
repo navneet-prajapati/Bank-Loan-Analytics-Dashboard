@@ -322,10 +322,4 @@ Explore Dashboard Interactively
 
 ### Navneet Prajapati
 
-Data Analyst | Power BI Developer
-
-LinkedIn:
-(Add Your LinkedIn Profile)
-
-GitHub:
-(Add Your GitHub Profile)
+Data Analyst | Business Analyst | Reporting & MIS Analyst | Power BI Developer
