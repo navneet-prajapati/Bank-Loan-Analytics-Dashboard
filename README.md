@@ -143,7 +143,7 @@ AVERAGE(Loan_Data[DTI])
 
 ## Dashboard Preview
 
-![Summary Dashboard](Screenshots/Summary.png)
+![Summary Dashboard](Summary.png)
 
 ### Key Metrics
 
@@ -193,7 +193,7 @@ Average DTI by Loan Status.
 
 ## Dashboard Preview
 
-![Overview Dashboard](Screenshots/Overview.png)
+![Overview Dashboard](Overview.png)
 
 ### Visuals
 
